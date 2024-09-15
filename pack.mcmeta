@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "Faithful 64x AppleSkin Support.\n§8by Plskyuwu",
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 34
+    }
+  }
+}
